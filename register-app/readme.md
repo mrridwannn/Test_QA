@@ -1,5 +1,5 @@
 # QA Registration System
-
+![Tampilan Aplikasi](./images/image.png)
 ## Pendahuluan 
 
 Project ini adalah sistem registrasi pengguna berbasis PHP dengan database MySQL. Proyek ini mencakup fitur registrasi pengguna dengan validasi dan notifikasi.
