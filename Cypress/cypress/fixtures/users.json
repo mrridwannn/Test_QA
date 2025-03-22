@@ -1,0 +1,11 @@
+{
+  "validUser": {
+    "first_name": "Ridwan",
+    "last_name": "QA",
+    "email": "mridwan_qa10@gmail.com",
+    "password": "Password123!",
+    "confirm_password": "Password123!"
+  },
+  "existingEmail": "mridwan_qa@gmail.com",
+  "temporaryEmail": "temp10@temp-mail.org"
+}
