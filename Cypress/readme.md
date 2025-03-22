@@ -58,11 +58,3 @@ module.exports = defineConfig({
 });
 
 ```
-
-
-## 5. Add IDE plugin for `.feature` files
-
-This is one of the bests for VS-Code: [Cucumber (Gherkin) Full Support](https://marketplace.visualstudio.com/items?itemName=alexkrechik.cucumberautocomplete)
-
-
-## THANK YOU 🙂
